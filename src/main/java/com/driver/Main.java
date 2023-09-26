@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         RWOnly obj = new RWOnly();
 
-        //we cant directly access the private instance variable of the RWOnly class
+        //we cant directly access the private instance variable of the RWOnly class so thats why we use getter and setter
         //obj.name = "Joydeep";
         //System.out.println(obj.name);
 
