@@ -8,7 +8,7 @@ public class Main {
         //obj.name = "Joydeep";
         //System.out.println(obj.name);
 
-        // after using getter and setter method
+        // after using getter and setter   method
         obj.setName("Joydeep");
         String s = obj.getName();
         System.out.println(s);
